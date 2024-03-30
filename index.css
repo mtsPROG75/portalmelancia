@@ -1,0 +1,79 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    background: black;
+}
+
+main#main1{
+    background: rgb(218, 188, 145);
+    margin: auto;
+    max-width: 1000px;
+    min-width: 400px;
+    height: 1650px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+header#header{
+    font-size: 100px;
+    text-align: center;
+    color: black;
+    background: green;
+    max-width: 2000px;
+    margin: auto;
+}
+
+main#what{
+    text-align: center;
+}
+
+h1#h11{
+    font-size: 50px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 600px;
+    min-width: 400xp;
+    margin-left: 200px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+p#p1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+    max-width: 600px;
+    min-width: 400xp;
+    margin-left: 200px;
+    margin: auto;
+}
+
+main#yout{
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1#h12{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    max-width: 600px;
+    min-width: 400xp;
+    margin-left: 200px;
+    margin: auto;
+}
+
+p#canal{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    max-width: 600px;
+    min-width: 400xp;
+    margin-left: 200px;
+    margin: auto;
+}
+
+
+
+
+
+
